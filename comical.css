@@ -1,0 +1,12 @@
+:root {
+    --background-primary: rgb(25, 0, 255);
+    --background-secondary: rgb(0, 255, 76);
+    --background-secondary-alt: rgb(225, 0, 255);
+    --background-tertiary: rgb(255, 0, 0);
+    --channeltextarea-background: rgb(251, 255, 0);
+}
+* {
+    font-family: Comic Sans MS, Consolas, Times New Roman!important;
+    border-radius: 30px;
+    margin: 9px;
+}
